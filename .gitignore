@@ -1,0 +1,14 @@
+.DS_Store
+.idea/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+dist/
+coverage/
+*.log
+.claude/
+.codex/
+**/.claude-plugin/types/

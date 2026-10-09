@@ -1,0 +1,12 @@
+{
+  "name": "ai-toolbox",
+  "description": "Mods and configurations for AI coding tools by Alexei Yarilovets.",
+  "owner": { "name": "Alexei Yarilovets" },
+  "plugins": [
+    {
+      "name": "clock",
+      "source": "./claude-code/mods/clock",
+      "description": "Local time and 5-hour / 7-day used limits in the status line. Requires early-access module hooks; tested with Claude Code 2.1.289."
+    }
+  ]
+}

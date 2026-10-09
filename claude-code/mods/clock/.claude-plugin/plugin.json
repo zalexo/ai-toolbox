@@ -1,0 +1,8 @@
+{
+  "name": "clock",
+  "version": "0.3.0",
+  "description": "Status line: current time (HH:MM) plus the used share of the 5-hour and 7-day rate-limit windows",
+  "author": { "name": "Alexei Yarilovets", "url": "https://github.com/zalexo" },
+  "repository": "https://github.com/zalexo/ai-toolbox",
+  "license": "MIT"
+}
